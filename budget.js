@@ -23902,38 +23902,6 @@ var TransactionPaymentComponent = function (_Component) {
                                 { className: 'btn-toolbar col-lg-offset-2', role: 'toolbar' },
                                 _react2.default.createElement(
                                     'button',
-                                    { type: 'button', className: 'btn btn-primary col-lg-3 app-theme-main-btn-round' },
-                                    'Check'
-                                ),
-                                _react2.default.createElement(
-                                    'button',
-                                    { type: 'button', className: 'btn btn-primary col-lg-3 app-theme-main-btn-round' },
-                                    'Gift Card'
-                                ),
-                                _react2.default.createElement(
-                                    'button',
-                                    { type: 'button', className: 'btn btn-primary col-lg-3 app-theme-main-btn-round' },
-                                    'Credit+'
-                                )
-                            )
-                        )
-                    )
-                ),
-                _react2.default.createElement(
-                    'div',
-                    { className: 'form-group' },
-                    _react2.default.createElement(
-                        'div',
-                        { className: 'row' },
-                        _react2.default.createElement('div', { className: 'col-lg-offset-1' }),
-                        _react2.default.createElement(
-                            'div',
-                            { className: 'col-lg-11' },
-                            _react2.default.createElement(
-                                'div',
-                                { className: 'btn-toolbar col-lg-offset-2', role: 'toolbar' },
-                                _react2.default.createElement(
-                                    'button',
                                     { type: 'button', className: 'btn btn-success col-lg-11 app-theme-main-btn-round' },
                                     'Sale Complete'
                                 )
